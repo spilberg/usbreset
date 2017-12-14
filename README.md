@@ -8,4 +8,7 @@ UsbReset - программа позволяющая перегрузить ко
 http://ucheba33.ru/?p=613
 
 # Запуск программы для отправки данных в СОМ порт
+
+SendDataToCOMPort.jar отправляет в СОМ порт строку
+
 java -jar SendDataToCOMPort.jar COM7 "" "" "" "" "" "3000"
